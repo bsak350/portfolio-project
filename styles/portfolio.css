@@ -211,7 +211,6 @@ footer .email-link:hover {
 
 footer .social-links a {
   margin: 0 5px;
-  color: var(--branding-color);
   background: var(--secondary-color);
   padding: 10px 14px;
   font-size: 18px;
@@ -220,8 +219,16 @@ footer .social-links a {
 }
 
 footer .social-links a:hover {
-  color: white;
   background: var(--branding-color);
+}
+
+footer .fab {
+  color: var(--branding-color);
+  transition: all 100ms ease-in-out;
+}
+
+footer .fab:hover {
+  color: var(--secondary-color);
 }
 
 footer .contact-box {
