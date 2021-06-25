@@ -185,8 +185,3 @@ nav a:hover,
 nav li.active-link a {
   color: var(--branding-color);
 }
-
-.fa-laptop-code {
-  font-size: 20x;
-  line-height: 42px;
-}
