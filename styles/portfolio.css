@@ -158,6 +158,12 @@ p {
   max-height: 460px;
 }
 
+.img-fluid#profile-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .fab {
   color: var(--branding-color);
   font-size: 24px;
