@@ -38,7 +38,7 @@ h3 {
 
 p {
   font-weight: normal;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 30px;
 }
 
@@ -243,4 +243,8 @@ footer .contact-box {
 
 footer .contact-box p {
   margin: 0;
+}
+
+.open-source-link {
+  text-decoration: none;
 }
