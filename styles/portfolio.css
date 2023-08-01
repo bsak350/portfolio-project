@@ -95,6 +95,19 @@ p {
   max-height: 25px;
 }
 
+.bsakmedia-header {
+  text-decoration: none;
+  color: #7e58c3;
+}
+
+.bsakmedia-header:hover {
+  color: black;
+}
+
+.small-bsakmedia-logo {
+  max-height: 35px;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
